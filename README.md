@@ -5,10 +5,10 @@ Pokedex é um micro site criado em ReactJS para exibir seus pokemons favoritos [
 ## Requisitos para execução da aplicação
 
 - Para executar a aplicação, é necessário rodar os seguintes comandos:
-    - git clone https://github.com/niltonmendes/pokedex.git
-    - cd challenge-charlie
-    - execute npm install ou yarn install para instalar as dependências
-    - após instalar as dependências execute: npm start ou yarn start
+    - `git clone https://github.com/niltonmendes/pokedex.git`
+    - cd `pokedex`
+    - execute `npm install` ou `yarn install` para instalar as dependências
+    - após instalar as dependências execute: `npm start` ou `yarn start`
 
 ## Como usar
 
