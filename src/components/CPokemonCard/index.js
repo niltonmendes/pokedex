@@ -26,7 +26,7 @@ const CPokemonCard = (props) => {
                   <strong>Peso: </strong>{props.weight / 10} kgs
                 </span>
                 <span>
-                  <strong>Tipo: </strong>{props.typeName}
+                  <strong>Tipo: </strong>{props.type}
                 </span>
                 <span>
                   <strong>ID: </strong>{props.id}
